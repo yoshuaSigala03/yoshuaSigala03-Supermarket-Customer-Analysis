@@ -8,12 +8,7 @@ This README outlines the insights and actionable recommendations derived from a 
 The company faces challenges in identifying key customer segments, optimizing marketing strategies, and improving customer satisfaction through data-driven insights.
 
 ### Business Questions
-The analysis seeks to answer:
-1. How do income and education influence spending?
-2. How do households with and without kids differ in spending behavior?
-3. Does customer tenure affect spending or retention?
-4. Which products and channels drive the most revenue?
-5. How do engagement levels and marketing campaigns influence spending?
+Key questions address demographics, spending behavior, purchase channel preferences, and satisfaction patterns.
 
 ## 2. Data Preparation
 ### Data Understanding and Cleaning
